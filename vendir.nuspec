@@ -15,7 +15,7 @@
     <licenseUrl>https://github.com/vmware-tanzu/carvel-vendir/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
-    <packageSourceUrl>https://github.com/vmware-tanzu/carvel-vendir</packageSourceUrl>
+    <packageSourceUrl>https://github.com/adriens/chocolatey-vendir</packageSourceUrl>
     <releaseNotes>https://github.com/vmware-tanzu/carvel-vendir/releases/tag/v0.14.0</releaseNotes>
     <docsUrl>https://github.com/vmware-tanzu/carvel-vendir/tree/develop/docs</docsUrl>
     <bugTrackerUrl>https://github.com/vmware-tanzu/carvel-vendir/issues</bugTrackerUrl>
