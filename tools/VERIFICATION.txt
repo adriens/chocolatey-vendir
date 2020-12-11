@@ -1,0 +1,15 @@
+﻿
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Binary file <vendir> comes from the official release page :
+
+<https://github.com/vmware-tanzu/carvel-vendir/releases/tag/v0.14.0>
+
+The only included binary is :
+
+0d806639ea8e3d7952bba29bce079c2012d43ca326ac6b3ef9451456aba8a391    ./vendir-windows-amd64.exe
+
+but renamed from <vendir-windows-amd64.exe> to <vendir>.
+
