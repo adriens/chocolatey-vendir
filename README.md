@@ -1,6 +1,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rastadidi?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/carvel_dev?label=Follow%20Carvel.dev&style=social)
 
+[![Chocolatey](https://img.shields.io/chocolatey/v/vendir.svg)](https://chocolatey.org/packages/vendir)
+[![Chocolatey](https://img.shields.io/chocolatey/dt/vendir.svg)](https://chocolatey.org/packages/vendir)
+
 ![Project banner](choco-vendir-banner.png)
 
 # Usage
