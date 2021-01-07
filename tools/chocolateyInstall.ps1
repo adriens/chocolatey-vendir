@@ -20,4 +20,3 @@ $package = Split-Path $tools
 $vendir_exe = Join-Path $package '/tools/vendir'
 
 Install-BinFile -Name 'vendir' -Path $vendir_exe
-Update-SessionEnvironment
