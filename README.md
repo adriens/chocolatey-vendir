@@ -41,5 +41,5 @@ choco install -fdv vendir.nuspec
 ## Deploy to central
 
 ```
-choco push vendir.0.17.0.nupkg --source https://push.chocolatey.org/ -apikey *******
+choco push vendir.0.18.0.nupkg --source https://push.chocolatey.org/ -apikey *******
 ```

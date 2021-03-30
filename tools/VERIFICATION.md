@@ -6,12 +6,12 @@ in verifying that this package's contents are trustworthy.
 
 Binary file `vendir.exe` comes from the following official release page :
 
-https://github.com/vmware-tanzu/carvel-vendir/releases/tag/v0.17.0
+https://github.com/vmware-tanzu/carvel-vendir/releases/tag/v0.18.0
 
 The only included binary is :
 
 ```
-1971fbb93a48f3b7cdf5b695ac4c5b139aa9fa55e4248824abaf0b4289475a3b    ./vendir-windows-amd64.exe
+48bfe5c736ef99d3cd2b37ed5e317d800d8dbfa100eadc8c30f6b08b8fc107db    ./vendir-windows-amd64.exe
 ```
 
 but renamed from `vendir-windows-amd64.exe` to `vendir.exe`.
