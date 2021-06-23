@@ -3,7 +3,7 @@
   <metadata>
     <id>vendir</id>
     <title>Carvel vendir</title>
-    <version>0.19.0</version>
+    <version>0.20.0</version>
     <authors>Carvel</authors>
     <owners>Adrien SALES</owners>
     <summary>Easy way to vendor portions of git repos, github releases, helm charts,
@@ -16,7 +16,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.statically.io/gh/adriens/chocolatey-kbld/main/img/CarvelLogo.png</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-vendir</packageSourceUrl>
-    <releaseNotes>https://github.com/vmware-tanzu/carvel-vendir/releases/tag/v0.19.0</releaseNotes>
+    <releaseNotes>https://github.com/vmware-tanzu/carvel-vendir/releases/tag/v0.20.0</releaseNotes>
     <docsUrl>https://github.com/vmware-tanzu/carvel-vendir/tree/develop/docs</docsUrl>
     <bugTrackerUrl>https://github.com/vmware-tanzu/carvel-vendir/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/vmware-tanzu/carvel-vendir/</projectSourceUrl>
