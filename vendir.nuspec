@@ -10,7 +10,7 @@
     docker image contents, etc. declaratively.</summary>
     <description>Easy way to vendor portions of git repos, github releases, helm charts,
     docker image contents, etc. declaratively.</description>
-    <projectUrl>https://github.com/vmware-tanzu/carvel-vendir</projectUrl>
+    <projectUrl>https://carvel.dev/vendir/</projectUrl>
     <tags>vendir declarative git ytt sync carvel</tags>
     <licenseUrl>https://github.com/vmware-tanzu/carvel-vendir/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
