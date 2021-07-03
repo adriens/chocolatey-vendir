@@ -17,7 +17,7 @@ These guidelines give all the manual actions to apply when releasing a new versi
 8. Update the release url in [VERIFICATION.md](VERIFICATION.md)
 9. In [vendir.nuspec](vendir.nuspec) update the following fields with the proper target version : `package.metadata.version`, `package.metadata.releaseNotes`
 10. Update [README.md](README.md) `Deploy to central` section with the proper version si the install and debug scripts are ready to use
-11. Send release to chocolatey with the proper command
+11. Send release to chocolatey with the proper command : `choco push vendir.0.21.1.nupkg --source https://push.chocolatey.org/ -apikey *******`
 12. Copy/paste the chocolatey release candidate url on the dedicated the GH release ticket
 13. Keep track of each choco release phase in the kanban so anyone can easily follow the release progress
 14. Close the issue when the new version is GA on chocolatey.org
