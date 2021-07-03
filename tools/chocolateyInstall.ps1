@@ -1,7 +1,7 @@
 $toolsDir    = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $ErrorActionPreference = 'Stop';
 
-
+Copy-Item "$toolsDir\vendir-windows-amd64.exe" -Destination "$toolsDir\vendir.exe"
 
 $packageArgs = @{
   packageName   = 'vendir'
