@@ -37,6 +37,8 @@ choco install -fdv vendir.nuspec
 
 ## Release check list
 
+See [RELEASE_GUIDELINES.md](RELEASE_GUIDELINES.md)
+
 
 ## Deploy to central
 
