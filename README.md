@@ -22,26 +22,8 @@ To install `vendir` and get an optimal experience on windows, just:
 
 ## Build locally
 
-[Chocolatey package](https://chocolatey.org/packages/vendir/) to install [Carvel/vendir](https://github.com/vmware-tanzu/carvel-vendir) (currenlty [under moderation process](https://github.com/adriens/chocolatey-vendir/issues/1))
-
 ```
 git clone https://github.com/adriens/chocolatey-vendir.git
 cd chocolatey-vendir
-choco uninstall vendir
-choco install -fdv vendir.nuspec
-```
-
-:ballot_box_with_check: TODO section
-
-[Not yet implemented CI](https://github.com/adriens/chocolatey-vendir/issues/2) so:
-
-## Release check list
-
-See [RELEASE_GUIDELINES.md](RELEASE_GUIDELINES.md)
-
-
-## Deploy to central
-
-```
-choco push vendir.0.21.1.nupkg --source https://push.chocolatey.org/ -apikey *******
+ant make
 ```
