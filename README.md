@@ -1,6 +1,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rastadidi?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/carvel_dev?label=Follow%20Carvel.dev&style=social)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/yj963xt1jnhr4wmg/branch/main?svg=true)](https://ci.appveyor.com/project/adriens/chocolatey-vendir/branch/main)
 [![Chocolatey](https://img.shields.io/chocolatey/v/vendir.svg)](https://chocolatey.org/packages/vendir)
 [![Chocolatey](https://img.shields.io/chocolatey/dt/vendir.svg)](https://chocolatey.org/packages/vendir)
 
